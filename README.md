@@ -4,6 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-chizuchizu-fd9827?style=for-the-badge)](https://chizuchizu.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chizuchizu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizuchizu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
