@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Twitter](https://img.shields.io/twitter/follow/scgame_m?color=%231DA1F2&style=for-the-badge)](https://twitter.com/chizu_potato)
-[![Blog](https://img.shields.io/badge/Blog-Acto-fd9827?style=for-the-badge)](https://chizuchizu.com)
+[![Twitter](https://img.shields.io/twitter/follow/chizu_potato?color=%231DA1F2&style=for-the-badge)](https://twitter.com/chizu_potato)
+[![Blog](https://img.shields.io/badge/Blog-chizuchizu-fd9827?style=for-the-badge)](https://chizuchizu.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chizuchizu)](https://github.com/anuraghazra/github-readme-stats)
 
