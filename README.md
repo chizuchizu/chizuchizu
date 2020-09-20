@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <a href="https://github.com/yutakatay/yutakatay/">
-    <img src="https://komarev.com/ghpvc/?username=yutakatay" alt="yutakatay" />
+  <a href="https://github.com/chizuchizu/chizuchizu/">
+    <img src="https://chizuchizu.com/?username=yutakatay" alt="chizuchizu" />
   </a>
-  <a href="http://twitter.com/yutakatay">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutakatay?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/chizu_potato">
+    <img height="20" src="https://img.shields.io/twitter/follow/chizu_potato?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
 
