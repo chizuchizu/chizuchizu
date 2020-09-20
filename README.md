@@ -1,10 +1,19 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <a href="https://github.com/yutakatay/yutakatay/">
+    <img src="https://komarev.com/ghpvc/?username=yutakatay" alt="yutakatay" />
+  </a>
+  <a href="http://twitter.com/yutakatay">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutakatay?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+
 [![Twitter](https://img.shields.io/twitter/follow/chizu_potato?color=%231DA1F2&style=for-the-badge)](https://twitter.com/chizu_potato)
 [![Blog](https://img.shields.io/badge/Blog-chizuchizu-fd9827?style=for-the-badge)](https://chizuchizu.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chizuchizu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizuchizu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizuchizu&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
