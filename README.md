@@ -1,5 +1,40 @@
 ### Hi there 👋
 
+## I'm chizuchizu
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Using machine learning and quantum computers to create new technologies
+
+- 🎓 &nbsp; National Institute of Technology, Kisarazu College
+
+- 🌱 &nbsp; Learning about Machine Learning, Quantum computers.
+
+- ✍️ &nbsp; Pursuing Typing as hobbies.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | C++(?)
+
+- 🌐 &nbsp; Pytoch | Keras | qiskit | cirq
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
 [![Twitter](https://img.shields.io/twitter/follow/chizu_potato?color=%231DA1F2&style=for-the-badge)](https://twitter.com/chizu_potato)
 [![Blog](https://img.shields.io/badge/Blog-chizuchizu-fd9827?style=for-the-badge)](https://chizuchizu.com)
 
